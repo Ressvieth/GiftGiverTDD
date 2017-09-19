@@ -1,2 +1,3 @@
-# GiftGiverTDD
-Simple React App with tests - built with TDD manner
+Project made during Udemy "React - Mastering Test and Behavior Driven Development" course (author: https://github.com/15Dkatz)
+
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
